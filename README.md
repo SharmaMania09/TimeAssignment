@@ -1,10 +1,16 @@
-# TimeAssignment
+# Time Assignment
+
+### Overview
 
 Programming Test Assignment pdf is added to the GitHub repository.
 
 This repository contains the code for the getTimeStories API given as an assignment for Time.
 
-## Instructions
+### Prerequisites
+
+IDE - Eclipse or Intellij Idea or STS(Spring Tool Suite)
+
+### Instructions
 
 Step 1: Download the repository and open it in an ide such as IntelliJ or eclipse. <br/>
 Step 2: Open the pom.xml file and download the required dependencies.<br/>
